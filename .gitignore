@@ -1,0 +1,16 @@
+# Data and models
+data/
+models/
+*.zip
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Notebooks (kept local for now)
+notebooks/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
